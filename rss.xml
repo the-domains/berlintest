@@ -4,7 +4,7 @@
         <description><![CDATA[berlinTest]]></description>
         <link>https://thegrid.ai/berlintest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 18:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 18:46:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/berlintest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,7 +18,7 @@
             <description><![CDATA[<article><h1>Überschrift</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1acdeee64a73040c4971061f8e7e0fb59635ee6.jpg"></article>]]></description>
             <link>https://thegrid.ai/berlintest/uberschrift/index.html</link>
             <guid isPermaLink="false">be38bb9d-6979-4562-bd87-8ca3926f8721</guid>
-            <pubDate>Tue, 12 Jan 2016 18:39:13 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 18:46:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
