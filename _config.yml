@@ -1,7 +1,7 @@
 name: berlinTest
 favicon: null
 layout_spectrum: 0.72556
-typography_spectrum: 0.48125
+typography_spectrum: 0.72325
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#bbb7b4'
-    - '#dfd8d2'
-    - '#9c9d9f'
-    - '#5c6d7d'
-    - '#415264'
-  brandStrength: 0.25
-  lightness: 0.2434697630815208
-  saturation: 0.9968991510104388
-  rhythmicContrast: 0.18781885923817754
+    - '#8a7e68'
+    - '#010000'
+    - '#4a595c'
+    - '#d5c7aa'
+    - '#562c1e'
+  brandStrength: 0.5625
+  lightness: 0.75
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
